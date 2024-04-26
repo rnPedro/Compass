@@ -27,3 +27,17 @@ Suponha que você queira desenvolver um sistema de reconhecimento de faces. Voc�
 A Inteligência Artificial está transformando rapidamente todos os aspectos da nossa vida, desde a maneira como interagimos com dispositivos eletrônicos até como conduzimos negócios e tomamos decisões. Compreender os conceitos fundamentais da IA é essencial para aproveitar todo o seu potencial.
 
 ![Inteligência Artificial](https://images.unsplash.com/photo-1528735607761-dfabe0f7508a)
+
+## Comparativos
+
+| Tecnologia      | Ponto Positivo                                                                                  | Ponto Negativo                                                                                  |
+|-----------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| TensorFlow     | - Suporte extenso da comunidade e documentação detalhada                                      | - Curva de aprendizado íngreme para iniciantes                                                    |
+| PyTorch         | - Flexibilidade e facilidade de uso na construção de modelos                                    | - Documentação menos abrangente em comparação com o TensorFlow                                 |
+| Scikit-Learn    | - Fácil de aprender e usar para tarefas de aprendizado de máquina                                | - Menos adequado para tarefas complexas de deep learning                                        |
+| Keras            | - API de alto nível fácil de usar para construir modelos de deep learning                         | - Menos flexibilidade em comparação com TensorFlow ou PyTorch                                |
+| IBM Watson    | - Amplamente utilizado em aplicações empresariais e corporativas                                 | - Custos associados ao uso da plataforma e serviços                                             |
+| Microsoft Azure | - Integração com outras ferramentas e serviços da Microsoft                                      | - Interface de usuário pode ser complexa para iniciantes                                         |
+| Google Cloud AI | - Infraestrutura escalável e confiável para treinamento e implantação de modelos                | - Custos de uso podem ser significativos para projetos de grande escala                        |
+| Amazon AWS AI  | - Ampla gama de serviços de IA, incluindo reconhecimento de imagem, processamento de linguagem natural, etc. | - Configuração inicial e gerenciamento podem ser complexos e caros                             |
+
