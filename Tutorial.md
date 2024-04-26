@@ -26,7 +26,7 @@ Suponha que você queira desenvolver um sistema de reconhecimento de faces. Voc�
 
 A Inteligência Artificial está transformando rapidamente todos os aspectos da nossa vida, desde a maneira como interagimos com dispositivos eletrônicos até como conduzimos negócios e tomamos decisões. Compreender os conceitos fundamentais da IA é essencial para aproveitar todo o seu potencial.
 
-![Inteligência Artificial](https://images.unsplash.com/photo-1528735607761-dfabe0f7508a)
+![Inteligência Artificial](https://midias.correiobraziliense.com.br/_midias/jpg/2023/07/24/1200x801/1_foto_da_ia-28557316.jpg)
 
 ## Comparativos
 
