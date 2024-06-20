@@ -4,7 +4,7 @@
 
 # 🖥️ Curso Git Udemy
 
-Welcome to the Git Essentials Guide! This document is a comprehensive resource for understanding and mastering Git, the most popular version control system. 
+Welcome to the Git Essentials Guide! This document is a comprehensive resource for understanding and mastering Git seen in the course, the most popular version control system. 
 
 ## Table of Contents
 1. [Introduction](#introduction)
