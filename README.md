@@ -54,7 +54,7 @@ A commit is a snapshot of your repository at a specific point in time. It contai
 ### Merge
 Merging combines changes from different branches into a single branch.
 
-![Merging](https://example.com/merging-image.png)
+![Merging]([https://example.com/merging-image.png](https://res.cloudinary.com/practicaldev/image/fetch/s--7lvYimJG--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://cl.ly/430Q2w473e2R/Image%25202018-04-30%2520at%25201.07.58%2520PM.png))
 
 ### Clone
 Cloning a repository means creating a copy of it on your local machine.
