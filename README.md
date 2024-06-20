@@ -46,7 +46,7 @@ A repository is a directory that contains all of your project's files and the en
 ### Branch
 Branches are used to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository.
 
-![Branching](branching.png)
+![Branching](https://www.nobledesktop.com/image/gitresources/git-branches-merge.png)
 
 ### Commit
 A commit is a snapshot of your repository at a specific point in time. It contains metadata, including the author, date, and commit message.
